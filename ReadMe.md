@@ -50,6 +50,10 @@
 - [PhxRPC](https://github.com/tencent-wechat/phxrpc) - 微信后台团队推出的 RPC 框架
 - [PhxSQL](https://github.com/tencent-wechat/phxsql) - 微信后台团队研发的分布式数据库服务
 
-### 其它
-
+### wechat SDK相关
+- [微信公众平台php开发包](https://github.com/dodgepudding/wechat-php-sdk)
+- [基于nodejs的微信公共平台API的SDK](https://github.com/node-weixin/node-weixin-api)
+- [微信公众平台SDK for Go](https://github.com/sidbusy/weixinmp)
+- [微信公众平台SDK Senparc.Weixin for C#](https://github.com/JeffreySu/WeiXinMPSDK)
+- ...
 更多资源添加中...
