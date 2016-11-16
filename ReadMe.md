@@ -12,7 +12,7 @@
 - [ngrok](https://ngrok.com/)国外站点。
 - [微信企业号接口调试工具](http://qydev.weixin.qq.com/debug)
 - [微信公众平台接口调试工具](https://mp.weixin.qq.com/debug/)
-...
+
 > 需要注意的是，这里使用对应的接口调试工具。
 
 ### 开源项目相关
