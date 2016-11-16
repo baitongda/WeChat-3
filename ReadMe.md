@@ -1,5 +1,33 @@
 ## WeChat | 微信相关资源索引
 
+### wechat SDK相关
+- [微信公众平台php开发包](https://github.com/dodgepudding/wechat-php-sdk)
+- [基于nodejs的微信公共平台API的SDK](https://github.com/node-weixin/node-weixin-api)
+- [微信公众平台SDK for Go](https://github.com/sidbusy/weixinmp)
+- [微信公众平台SDK Senparc.Weixin for C#](https://github.com/JeffreySu/WeiXinMPSDK)
+- ...
+
+### wechat 本地调试工具
+- [NATAPP](https://natapp.cn/)
+- [ngrok](https://ngrok.com/)国外站点。
+- [微信企业号接口调试工具](http://qydev.weixin.qq.com/debug)
+- [微信公众平台接口调试工具](https://mp.weixin.qq.com/debug/)
+...
+> 需要注意的是，这里使用对应的接口调试工具。
+
+### 开源项目相关
+- [Tinker](https://github.com/Tencent/tinker) - 微信开源 Android 热修复框架
+- [WeUI](https://github.com/weui/weui) - 微信视觉风格前端组件库
+	- [react-weui](https://github.com/weui/react-weui) - WeUI for React
+	- [WeUI-Design](https://github.com/weui/WeUI-Design) - 微信原生视觉前端视觉源文件（Sketch & PSD）
+- [WeFlow](https://github.com/weixin/WeFlow) - Web 前端开发工作流工具(GUI)
+- [tmt-workflow](https://github.com/weixin/tmt-workflow) - Web 前端开发工作(命令行)
+- [vConsole](https://github.com/WechatFE/vConsole) - 移动端开发调试面板，小程序内置调试
+- [libco](https://github.com/Tencent/libco) - 微信后台大规模使用的 C/C++ 协程库
+- [PhxPaxos](https://github.com/tencent-wechat/phxpaxos) - 基于 Paxos 协议的多机状态拷贝类库
+- [PhxRPC](https://github.com/tencent-wechat/phxrpc) - 微信后台团队推出的 RPC 框架
+- [PhxSQL](https://github.com/tencent-wechat/phxsql) - 微信后台团队研发的分布式数据库服务
+
 ### 站点相关
 
 - [微信官网](http://weixin.qq.com/)
@@ -36,32 +64,5 @@
 	- [图像开放平台](http://pr.weixin.qq.com/img/intro) - 图像识别技术和服务
 - [客服](http://kf.qq.com/)
 - [微信安全中心](https://weixin110.qq.com/) - 安全工具、投诉维权等
-
-### 开源项目相关
-- [Tinker](https://github.com/Tencent/tinker) - 微信开源 Android 热修复框架
-- [WeUI](https://github.com/weui/weui) - 微信视觉风格前端组件库
-	- [react-weui](https://github.com/weui/react-weui) - WeUI for React
-	- [WeUI-Design](https://github.com/weui/WeUI-Design) - 微信原生视觉前端视觉源文件（Sketch & PSD）
-- [WeFlow](https://github.com/weixin/WeFlow) - Web 前端开发工作流工具(GUI)
-- [tmt-workflow](https://github.com/weixin/tmt-workflow) - Web 前端开发工作(命令行)
-- [vConsole](https://github.com/WechatFE/vConsole) - 移动端开发调试面板，小程序内置调试
-- [libco](https://github.com/Tencent/libco) - 微信后台大规模使用的 C/C++ 协程库
-- [PhxPaxos](https://github.com/tencent-wechat/phxpaxos) - 基于 Paxos 协议的多机状态拷贝类库
-- [PhxRPC](https://github.com/tencent-wechat/phxrpc) - 微信后台团队推出的 RPC 框架
-- [PhxSQL](https://github.com/tencent-wechat/phxsql) - 微信后台团队研发的分布式数据库服务
-
-### wechat SDK相关
-- [微信公众平台php开发包](https://github.com/dodgepudding/wechat-php-sdk)
-- [基于nodejs的微信公共平台API的SDK](https://github.com/node-weixin/node-weixin-api)
-- [微信公众平台SDK for Go](https://github.com/sidbusy/weixinmp)
-- [微信公众平台SDK Senparc.Weixin for C#](https://github.com/JeffreySu/WeiXinMPSDK)
-- ...
-
-### wechat 本地调试工具
-- [NATAPP](https://natapp.cn/)
-- [ngrok](https://ngrok.com/)国外站点。
-...
-
-有了这些，本地开发就不需要部署文件到服务器上去了。
 
 更多资源添加中...
