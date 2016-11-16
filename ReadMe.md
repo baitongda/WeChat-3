@@ -56,4 +56,12 @@
 - [微信公众平台SDK for Go](https://github.com/sidbusy/weixinmp)
 - [微信公众平台SDK Senparc.Weixin for C#](https://github.com/JeffreySu/WeiXinMPSDK)
 - ...
+
+### wechat 本地调试工具
+- [NATAPP](https://natapp.cn/)
+- [ngrok](https://ngrok.com/)国外站点。
+...
+
+有了这些，本地开发就不需要部署文件到服务器上去了。
+
 更多资源添加中...
